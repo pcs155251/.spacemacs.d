@@ -1,7 +1,7 @@
 # install emacs
-add-apt-repository ppa:kelleyk/emacs
-apt update
-apt install emacs27
+sudo add-apt-repository ppa:kelleyk/emacs
+sudo apt update
+sudo apt install emacs27
 
 # install spacemacs
 rm -rf ~/.emacs.d
